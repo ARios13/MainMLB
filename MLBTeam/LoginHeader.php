@@ -14,18 +14,6 @@
 				<div class="banner">
 					<h1>2012/2013 MLB Team Stats</h1>
 				</div>
-				<div class="topmenu">
-					<ul>
-						<li style="border-left: medium none;"><a href="MLBMain.php">Home</a></li>
-						<li><a href="MLBEast.php">MLB AL East</a></li>
-						<li><a href="MLBCentral.php">MLB AL Central</a></li>
-						<li><a href="MLBWest.php">MLB AL West</a></li>
-						<li><a href="MLBEast2.php">MLB NL East</a></li>
-						<li><a href="MLBCentral2.php">MLB NL Central</a></li>
-						<li><a href="MLBWest2.php">MLB NL West</a></li>
-						<li><a href="logout.php">Sign Out</a></li>
-					</ul>
-				</div>
 			</div>
 			<div class="content">
 				<div class="content-in">
@@ -50,6 +38,6 @@
 						<div class="right-panel-in">
 							<div class="row">
 								<h2 class="title">
-									<span>About <span>Us</span></span>
+									<span>Welcome to <span>MLB Team Stats</span></span>
 								</h2>
 								<div class="row2">

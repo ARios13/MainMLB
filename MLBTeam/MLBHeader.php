@@ -23,7 +23,7 @@
 						<li><a href="MLBEast2.php">MLB NL East</a></li>
 						<li><a href="MLBCentral2.php">MLB NL Central</a></li>
 						<li><a href="MLBWest2.php">MLB NL West</a></li>
-						<li><a href="index.php">Sign In</a></li>
+						<li><a href="logout.php">Sign Out</a></li>
 					</ul>
 				</div>
 			</div>

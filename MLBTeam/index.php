@@ -1,5 +1,5 @@
 <?php
-require_once 'MLBHeader.php';
+require_once 'LoginHeader.php';
 /**
  * Copyright (C) 2013 peredur.net
  *

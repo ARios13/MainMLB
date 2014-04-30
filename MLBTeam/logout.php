@@ -13,6 +13,11 @@ setcookie ( session_name (), '', time () - 42000, $params ["path"], $params ["do
 
 // Destroy session
 session_destroy ();
-header ( "Location: ../index.php" );
 exit ();
 ?>
+<html>
+<body>
+<p>Thank you For visiting :)<br/></p>
+<p>If you wish return, Please <a href="index.php">Login</a></p>
+</body>
+</html>

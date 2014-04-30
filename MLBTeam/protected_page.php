@@ -18,7 +18,7 @@ sec_session_start ();
 		pages will be able to determine the type of user authorised to access
 		the page.</p>
 	<p>
-		Return to <a href="index.php">login page</a>
+		Please proceed to our <a href="MLBMain.php">Main Page</a>
 	</p>
         <?php else : ?>
             <p>
