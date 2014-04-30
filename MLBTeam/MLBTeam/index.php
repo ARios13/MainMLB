@@ -57,6 +57,6 @@ if (login_check ( $mysqli ) == true) {
 </body>
 </html>
 <?php
-require_once 'MLBFooter.php';
+require_once 'LoginFooter.php';
 ?>
 
